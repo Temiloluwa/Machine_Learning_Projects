@@ -3,8 +3,8 @@
 ## Linear Regression
 1. Predicting Red Wine Quality
     - Exploration Data Analysis
-    - 1D outlier Detection
-    - Forward and Backward stepwise Regression
+    - Outlier Detection
+    - Backward stepwise Regression
     - Feature Engineering
 
 
