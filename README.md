@@ -9,6 +9,6 @@
 
 
 ## Data Sources
-1. Predicting Red Wine Quality 
+1. Predicting Red Wine Quality (red_wine_quality.ipynb)
 - https://archive.ics.uci.edu/ml/datasets/Wine+Quality
 
