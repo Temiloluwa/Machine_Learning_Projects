@@ -1,10 +1,10 @@
 # Machine Learning Projects
 
-## Linear Regression
 1. Predicting Red Wine Quality
     - Exploration Data Analysis
     - Outlier Detection
     - Backward stepwise Regression
+    - Linear, Lasso and Rigde Regression
     - Feature Engineering
 
 2. Predicting Movie Ratings using MovieLens 100K
